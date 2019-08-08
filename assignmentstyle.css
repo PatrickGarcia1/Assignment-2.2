@@ -2,12 +2,14 @@
     background-color: darkcyan;
     text-align: center;
     color: white;
+    padding: 5px 0px;
 }
 
 .nav-li {
     color: white;
     font-size: 30px;
     display: inline;
+    padding: 0px 10px;
 }
 .header-section {
         background-image: url("https://www.featurepics.com/StockImage/20080325/silver-bricks-stock-image-664340.jpg");
@@ -22,6 +24,8 @@
 
 .about-section {
     background-color: grey;
+    padding: 50px 0px;
+    text-align: center;
 }
 
 .about-me   {
@@ -52,11 +56,13 @@
 .serv-li {
     text-align: center;
     font-size: 20px;
+    list-style-type: none;
 }
 
 .services{
     background-color: white;
     text-align: center;
+    padding: 50px 0px;
 }
 
 .works-images {
@@ -77,4 +83,9 @@
 .contact{
     background-color: white;
     text-align: center;
+    padding: 50px 0px;
+}
+
+.contact-button {
+    border-radius: 25px;
 }
