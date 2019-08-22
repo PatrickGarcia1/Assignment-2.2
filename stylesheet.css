@@ -1,0 +1,100 @@
+/* NAV SECTION */
+.nav-section {
+    background-color: darkcyan;
+    padding: 2px 0px;
+    text-align: center;
+}
+
+.nav-li {
+    font-size: 20px;
+    list-style-type: none;
+    padding: 0px 10px;
+    display: inline;
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+/* HEADER SECTION */
+.header-section {
+    padding: 100px 0px;
+    text-align: center;
+    background-image: url("https://www.featurepics.com/StockImage/20061030/silver-bricks-stock-photo-124081.jpg");
+}
+
+.header-text {
+    color: white;
+    font-size: 60px;
+}
+
+/*ABOUT ME SECTION */
+
+.about-section {
+    padding: 75px 0px;
+    background-color: lightgray;
+    text-align: center;
+}
+
+.about-title_about {
+    color: white;
+}
+
+.about-img {
+    border-radius: 50%;
+    width: 200px;
+    border: 3px solid black;
+}
+
+/* SERVICES SECTION */
+
+.services-section {
+    padding: 75px 0px;
+    text-align: center;
+
+}
+
+.services-ul {
+    margin-right: 40px;
+    list-style-type: none;
+}
+
+/* WORKS SECTION */
+
+.works-section {
+    padding: 75px 0px;
+    background-color: grey;
+    text-align: center;
+}
+
+.works-title_my {
+    color: white;
+
+}
+
+.work-img_1 {
+    float: left;
+    border: 3px solid black;
+}
+
+.work-img_2 {
+    border: 3px solid black;
+}
+
+.work-img_3 {
+    float: right;
+    border: 3px solid black
+}
+
+/* CONTACT SECTION */
+
+.contact-section {
+    padding: 75px 0px;
+    text-align: center;
+}
+
+.button {
+    border-radius: 25px;
+}
